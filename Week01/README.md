@@ -1,3 +1,5 @@
-# 刷题笔记
+# 计算机基础
 
-题目来源：[力扣](https://leetcode.cn/problemset/all/)
+教程来源: [小林](https://github.com/xiaolincoder/CS-Base)
+
+教程来源: [CS-Notes](https://github.com/CyC2018/cs-notes)
