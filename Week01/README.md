@@ -1,4 +1,4 @@
-# 计算机基础
+# MySQL
 
 教程来源: [小林](https://github.com/xiaolincoder/CS-Base)
 
