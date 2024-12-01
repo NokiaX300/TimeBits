@@ -9,15 +9,4 @@
 - [面向对象](./Week05/Day5.ipynb)
 - [编码实践](./Week06/Day1.ipynb)
 
-### :zap: [小林coding](./Week02)[^2]
-
-- [MySQL](./Week07/Day1.ipynb)
-    - [基础篇](./Week07/Day1.ipynb)
-    - [索引篇](./Week07/Day1.ipynb)
-    - [事务篇](./Week07/Day1.ipynb)
-    - [锁篇](./Week07/Day1.ipynb)
-    - [日志篇](./Week07/Day1.ipynb)
-    - [内存篇](./Week07/Day1.ipynb)
-
-[^1]: 教程来源: [小林coding](https://github.com/xiaolincoder/CS-Base)
-[^2]: 教程来源: [CS-Notes](https://github.com/CyC2018/cs-notes)
+[^1]: 教程来源: [CS-Notes](https://github.com/CyC2018/cs-notes)
