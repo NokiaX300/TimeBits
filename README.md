@@ -1,6 +1,4 @@
-## :watermelon: 计算机基础
-
-### :zap: [CS-Notes](./Week01)[^1]
+## :watermelon: [计算机基础](./Week01)[^1]
 
 - [计算机基础](./Week04/Day1.ipynb)
     - [计算机网络](./Week03/Day1.ipynb)
