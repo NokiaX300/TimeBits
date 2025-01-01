@@ -9,8 +9,6 @@
 
 ## :watermelon: [面试笔记](./Week07/Day1.ipynb)
 
-## :watermelon: [Microsoft 数据分析入门](./Week09/Day1.ipynb)
-
-## :watermelon: [八股](./Week10/Day1.ipynb)
+## :watermelon: [八股](./Week08/Day1.ipynb)
 
 [^1]: 教程来源: [CS-Notes](https://github.com/CyC2018/cs-notes)
