@@ -11,4 +11,8 @@
 
 ## :watermelon: [八股](./Week08/Day1.ipynb)
 
+## :zap: [FastAPI](./Week09/Day1.ipynb)
+
+## :zap: [Qdrant](./Week10/Day1.ipynb)
+
 [^1]: 教程来源: [CS-Notes](https://github.com/CyC2018/cs-notes)
