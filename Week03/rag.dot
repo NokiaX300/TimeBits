@@ -1,0 +1,39 @@
+digraph flowchart {
+    graph [rankdir=LR];  // 设置从左到右布局
+    
+    // 主流程节点
+    A[label="用户提问"]
+    B[label="问题理解", shape=box]
+    C[label="向量化查询"]
+    D[label="向量数据库检索"]
+    E[label="Top-K相关文档"]
+    F[label="生成器整合信息"]
+    G[label="生成最终答案"]
+    H[label="返回答案"]
+    
+    // 文档处理流程子图
+    subgraph cluster_document_processing {
+        label="文档处理流程";  // 子图标题
+        I[label="原始文档"]
+        J[label="文本分割"]
+        K[label="向量化分块"]
+        L[label="向量数据库存储"]
+        
+        I -> J
+        J -> K
+        K -> L
+    }
+    
+    // 主流程连接
+    A -> B
+    B -> C
+    C -> D
+    D -> E
+    E -> F
+    F -> G
+    G -> H
+    
+    // 跨流程连接
+    I -> L  // 原始文档处理后存储到向量库
+    L -> D  // 向量库用于检索
+}
